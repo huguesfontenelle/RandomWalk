@@ -1,0 +1,11 @@
+  RandomWalk
+
+  Hugues Fontenelle, 2011
+
+     This software is distributed WITHOUT ANY WARRANTY; without even 
+     the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR 
+     PURPOSE.  See the above copyright notices for more information.
+
+     
+ * Computes an image where a given pixel is the probability of belonging to
+ * the same label as the seed provided by the user.
